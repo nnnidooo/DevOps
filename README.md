@@ -15,6 +15,8 @@ Real world &amp; Best Practices about DevOps and CALMS
 ## Culture
 Culture refers to *the shared values, beliefs, behaviors, and attitudes* that shape the way that people in an organization work and interact with one another. Culture is a critical component of any organization/workplace, as it can impact everything from *employee satisfaction and engagement to the success of the business.*
 
+Workplaces and organizations are meant to strive to create a psychological safe environment, where people aren't afraid of bringing their full self to work, and bad news are learning opportunities, rather than a reason for scolding. 
+
 In the context of DevOps, culture is particularly important, as it can have a significant impact on the effectiveness of DevOps practices. A culture that *values collaboration, transparency, and continuous improvement is essential for success in DevOps*, as it can help to break down silos and promote innovation and agility.
 
 ### Here are some key aspects of culture in the context of DevOps:
@@ -30,6 +32,8 @@ In the context of DevOps, culture is particularly important, as it can have a si
 - **Leadership:** Leadership is a critical component of culture in DevOps, *as leaders set the tone* for the organization and model the behavior that they want to see in others. By demonstrating a commitment to collaboration, transparency, and continuous improvement, *leaders can help to create a culture that supports the principles of DevOps*.
 
 Overall, by promoting a culture of collaboration, transparency, and continuous improvement, organizations and workplaces can create an environment that supports the principles of DevOps and enables them to respond quickly and effectively to changing business needs.
+
+## Automation
 
 
 
