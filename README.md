@@ -5,7 +5,7 @@ Real world &amp; Best Practices about DevOps and CALMS
 
  CALMS is an abbreviation to the 5 concepts:
  - **C**ulture
- - Automation
- - Lean
- - Measurements
- - Sharing
+ - **A**utomation
+ - **L**ean
+ - **M**easurements
+ - **S**haring
