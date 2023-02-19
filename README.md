@@ -7,5 +7,11 @@ Real world &amp; Best Practices about DevOps and CALMS
  - **C**ulture
  - **A**utomation
  - **L**ean
- - **M**easurements
+ - **M**easurement
  - **S**haring
+ 
+ It is a framework that is often used in the context of DevOps to guide organizations through the process of adopting DevOps practices. Let's understand what these 5 components actually do and why we can benefit from it.
+
+## Culture
+
+
