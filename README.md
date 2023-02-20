@@ -99,7 +99,7 @@ Lean is a management philosophy and methodology that aims to maximize value whil
 
 When we talk about lean, it is typically about waste and there are 8 types of waste: defects, overproduction, waiting, non-utilized talents, transportation, inventory, motion and extra processing. Vertically it spells DOWNTIME. 
 
- ![Downtime ](https://agilemercurial.files.wordpress.com/2019/02/downtime.png)
+ <img src="https://agilemercurial.files.wordpress.com/2019/02/downtime.png" alt= "Downtime img" width= "50%" height = "50%">
 
 
 
