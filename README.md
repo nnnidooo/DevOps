@@ -1,7 +1,7 @@
 # DevOps
 Real world &amp; Best Practices about DevOps and CALMS 
 
- ![CALMS Model ](https://www.devopsgroup.com/wp-content/uploads/2014/08/devopsgroup_blog_CALMS_model.jpg)
+  <img src="https://www.devopsgroup.com/wp-content/uploads/2014/08/devopsgroup_blog_CALMS_model.jpg" alt= "CALMS Model" width= "50%" height = "50%">
 
  CALMS is an abbreviation to the 5 concepts:
  - **C**ulture
